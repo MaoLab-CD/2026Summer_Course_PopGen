@@ -1,5 +1,5 @@
 """
-Class exercise: Allele frequency and FST following the EPI 511/Price lecture formula
+Class exercise: Allele frequency and FST formula
 
 This version follows the lecture-style definition:
 
