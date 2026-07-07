@@ -78,7 +78,7 @@ def calculate_allele_frequencies(data: pd.DataFrame, snp_cols: list[str]) -> pd.
 
 
 def fst_price_formula(p1: float, p2: float) -> float:
-    """Classroom FST approximation following the Price/EPI 511 formula.
+    """Classroom FST approximation following the formula.
 
     Lecture formula:
         Var(p1 - p2) = 2 * FST * p * (1 - p)
